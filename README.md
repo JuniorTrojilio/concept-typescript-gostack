@@ -4,7 +4,7 @@
 </div>
 <p align="center">In this initial module we learn the main TypeScript concepts.</p>
 <div display="inline" align="center">
-<img src="">
+<img src="https://img.shields.io/github/license/juniortrojilio/concept-typescript-gostack?style=flat-square">
 </div>
 
 ---
